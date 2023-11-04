@@ -1,0 +1,52 @@
+[
+    {
+        "user": "Usuario1",
+        "id": 1,
+        "public_key": "public_key_1",
+        "amount": 100.0,
+        "installments": 0,
+        "cardNumber": 4111111111111111,
+        "expirationDate": 1225,
+        "cvv": 123
+    },
+    {
+        "user": "Usuario2",
+        "id": 2,
+        "public_key": "public_key_2",
+        "amount": 200.0,
+        "installments": 2,
+        "cardNumber": 5555555555555555,
+        "expirationDate": 1224,
+        "cvv": 456
+    },
+    {
+        "user": "Usuario3",
+        "id": 3,
+        "public_key": "public_key_3",
+        "amount": 150.0,
+        "installments": 3,
+        "cardNumber": 378282246310005,
+        "expirationDate": 1123,
+        "cvv": 789
+    },
+    {
+        "user": "Usuario4",
+        "id": 4,
+        "public_key": "public_key_4",
+        "amount": 300.0,
+        "installments": 0,
+        "cardNumber": 5105105105105100,
+        "expirationDate": 1027,
+        "cvv": 234
+    },
+    {
+        "user": "Usuario5",
+        "id": 5,
+        "public_key": "public_key_5",
+        "amount": 250.0,
+        "installments": 1,
+        "cardNumber": 6011111111111117,
+        "expirationDate": 1022,
+        "cvv": 567
+    }
+]

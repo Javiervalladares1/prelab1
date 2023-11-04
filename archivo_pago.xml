@@ -1,0 +1,1 @@
+<pago><usuario>Usuario1</usuario><id>1</id><public_key>public_key_1</public_key><monto>111.5136</monto><cuotas>0</cuotas><numero_de_tarjeta>4111111111111111</numero_de_tarjeta><fecha_vencimiento>1225</fecha_vencimiento><codigo_CVV>123</codigo_CVV></pago><monto_con_comision>117.7583616</monto_con_comision>
